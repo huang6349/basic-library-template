@@ -4,5 +4,4 @@ export default {
   cjs: 'rollup',
   esm: 'rollup',
   doc: doc,
-  extractCSS: true,
 };
